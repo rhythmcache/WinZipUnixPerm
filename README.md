@@ -20,7 +20,7 @@ To apply 755 permissions to directories and 644 permissions to files in a ZIP lo
 - Open Command Prompt in the directory where winperm is located.
 - Run the following command:
 ```
-winperm "C:\Users\Admin\Downloads\check.zip" 755 644
+winperm "C:\Users\Admin\Downloads\example.zip" 755 644
 ```
 , now that zip when extracted on linux , it will have 644 and 755 permissions
 
