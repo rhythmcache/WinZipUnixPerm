@@ -3,7 +3,7 @@ Apply Linux attributes and permissions to the contents of a ZIP file directly fr
 
 # WinPerm (Experimental)
 
-**WinPerm** is a command-line tool designed to apply Linux-style attributes and permissions to the contents of a ZIP file directly from a Windows environment.  
+ A command-line tool designed to apply Linux-style attributes and permissions to the contents of a ZIP file directly from a Windows environment.  
 
 ⚠️ **This is an experimental build**. Functionality is not guaranteed, and unexpected behavior may occur.
 
