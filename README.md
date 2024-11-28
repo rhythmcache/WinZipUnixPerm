@@ -22,13 +22,13 @@ To apply 755 permissions to directories and 644 permissions to files in a ZIP lo
 - Open Command Prompt in the directory where winperm is located.
 - Run the following command:
 ```
-winperm "C:\Users\Admin\Downloads\example.zip" 755 644
+winzipunixperm "C:\Users\Admin\Downloads\example.zip" 755 644
 ```
 , now that zip when extracted on linux , it will have 644 and 755 permissions
 
 - To set permissions on a single file, here is an example command
 ```
-python uniwinperm.py -s "zipfile.zip" "folder1/folder2/folder3/file.txt" 755
+winzipunixperm -s "zipfile.zip" "folder1/folder2/folder3/file.txt" 755
 ```
 [Download Exe](https://github.com/rhythmcache/WinZipUnixPerm/releases/download/v1/winzipunixperm.exe)
 
