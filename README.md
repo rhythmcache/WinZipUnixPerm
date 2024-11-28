@@ -33,7 +33,7 @@ winperm "C:\Users\Admin\Downloads\example.zip" 755 644
 ```
 python uniwinperm.py -s "zipfile.zip" "folder1/folder2/folder3/file.txt" 755
 ```
-(Download Exe)[https://github.com/rhythmcache/WinZipUnixPerm/releases/download/v1/winzipunixperm.exe]
+[Download Exe](https://github.com/rhythmcache/WinZipUnixPerm/releases/download/v1/winzipunixperm.exe)
 
 
 
