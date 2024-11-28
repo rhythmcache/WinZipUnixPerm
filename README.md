@@ -1,9 +1,6 @@
-# WinZipUnixPerm
-Apply Linux attributes and permissions to the contents of a ZIP file directly from a Windows environment
-
 # WinZipUnixPerm (Experimental)
 
- A  simpl tool to apply Linux-style attributes and permissions to the contents of a ZIP file directly from a Windows environment.  
+ A  simple tool to apply Linux-style attributes and permissions to the contents of a ZIP file directly from a Windows environment.  
 
 ⚠️ **This is an experimental build**. Functionality is not guaranteed, and unexpected behavior may occur.
 
