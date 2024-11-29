@@ -1,7 +1,6 @@
 # WinZipUnixPerm (Experimental)
 
- A  simple tool to apply Linux-style attributes and permissions to the contents of a ZIP file directly from a Windows environment.  
-
+ A  simple tool to apply Linux-style attributes and permissions to the contents of a ZIP file directly from a Windows environment. The zip file, when extracted on Linux using `unzip` will have specified permissions set by default.
 ⚠️ **This is an experimental build**. Functionality is not guaranteed, and unexpected behavior may occur.
 
 ## Usage
